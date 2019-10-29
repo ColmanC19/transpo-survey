@@ -1,0 +1,25 @@
+#work-responses {
+  display: none;
+}
+
+#fun-responses {
+  display: none;
+}
+
+body{
+  background-color: gray;
+}
+
+#work-transportation{
+  background-color: white;
+}
+
+#work-responses{
+  background-color: yellow;
+}
+b{
+  background-color: yellow;
+}
+#fun-responses{
+  background-color: yellow;
+}
